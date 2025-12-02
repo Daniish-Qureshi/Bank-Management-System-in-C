@@ -2,9 +2,8 @@
 
 A simple yet powerful Bank Management System implemented in C language. This console-based application provides essential banking operations for account management.
 
-
 ## 📸 Screenshots
-![(Demo)[(https://github.com/Daniish-Qureshi/Bank-Management-System-in-C/blob/main/demo.webp)]]
+![(Demo)][(https://github.com/Daniish-Qureshi/Bank-Management-System-in-C/blob/main/demo.webp)]
 
 ## Features
 
@@ -80,3 +79,4 @@ For any queries or feedback, feel free to reach out:
 
 👤 *Danish Qureshi*  
 🔗 [Portfolio](https://danish-qureshi.vercel.app/) | [GitHub](https://github.com/Daniish-Qureshi) | [LinkedIn](https://www.linkedin.com/in/danishqureshi786/)
+
